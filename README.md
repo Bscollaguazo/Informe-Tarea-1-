@@ -1,7 +1,9 @@
 # Informe-Tarea-1
 Informe tarea 1 Collaguazo Blass
 
-1. OBJETIVO:
+1. OBJETIVO
+
+
 1.1 OBJETIVO GENERAL:
 Analizar y comprender los diferentes concepto fundamentales de las cantidades y unidades, voltaje, corriente, resistencia para la implementación en la electrónica, mediante ejercicio de practica he información teórica
 
