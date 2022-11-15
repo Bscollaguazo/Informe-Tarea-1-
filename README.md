@@ -38,96 +38,121 @@ image
 image
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
+
 SECCIÓN 1-2 NOTACIÓN CIENTÍFICA
 
-Exprese cada número fraccionario en notación científica:
-image
+2.Exprese cada número fraccionario en notación científica:
 
-Exprese cada uno de los números siguientes en notación científica:
-image
+[![2.png](https://i.postimg.cc/QtS049MR/2.png)](https://postimg.cc/TLLVhPg9)
 
-Exprese cada uno de los números siguientes como un número decimal regular:
-image
+4.Exprese cada uno de los números siguientes en notación científica:
 
-Exprese cada número de los siguientes como un número decimal regular:
-image
+[![4.png](https://i.postimg.cc/vTgfrcx7/4.png)](https://postimg.cc/Cn0RYMNd)
 
-Efectúe las siguientes sustracciones:
-image
+6.Exprese cada uno de los números siguientes como un número decimal regular:
 
-Realice las siguientes divisiones:
-image
+[![6.png](https://i.postimg.cc/3JG2W0TY/6.png)](https://postimg.cc/7fx5W6hW)
+
+8.Exprese cada número de los siguientes como un número decimal regular:
+
+[![8.png](https://i.postimg.cc/QNwpXkvf/8.png)](https://postimg.cc/Hj0Jz5YM)
+
+10.Efectúe las siguientes sustracciones:
+
+[![10.png](https://i.postimg.cc/13jVyDC9/10.png)](https://postimg.cc/mP7gw1Wq)
+
+12.Realice las siguientes divisiones:
+
+[![12.png](https://i.postimg.cc/gjz2V0SS/12.png)](https://postimg.cc/7GR4Dqy0)
 
 SECCIÓN 1-3 NOTACIÓN DE INGENIERÍA Y PREFIJOS MÉTRICOS
 
-Exprese cada número en notación de ingeniería:
-image
+14.Exprese cada número en notación de ingeniería:
 
-Exprese cada número en notación de ingeniería:
-image
+[![14.png](https://i.postimg.cc/mkgTc5kK/14.png)](https://postimg.cc/S23B3VWG)
 
-Multiplique los números siguientes y exprese cada resultado en notación de ingeniería
-image
+16.Exprese cada número en notación de ingeniería:
 
-Exprese cada número del problema 13 en ohms por medio de un prefijo métrico.
-image
+[![16.png](https://i.postimg.cc/MKXWqNhQ/16.png)](https://postimg.cc/XpSMgHNj)
 
-Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico:
-image
+18.Multiplique los números siguientes y exprese cada resultado en notación de ingeniería
 
-Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
-image
+[![18.png](https://i.postimg.cc/Hkyd75WW/18.png)](https://postimg.cc/Hrdfqr7F)
 
-Exprese cada cantidad en notación de ingeniería:
-image
+20.Exprese cada número del problema 13 en ohms por medio de un prefijo métrico.
+
+[![20.png](https://i.postimg.cc/G2BZZnBL/20.png)](https://postimg.cc/Q934TPkw)
+
+22.Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico:
+
+[![22.png](https://i.postimg.cc/wj6n9mtb/22.png)](https://postimg.cc/CzQcNdsj)
+
+24.Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
+
+[![24.png](https://i.postimg.cc/L5K0wYKD/24.png)](https://postimg.cc/7G9VTLLJ)
+
+26.Exprese cada cantidad en notación de ingeniería:
+
+[![26.png](https://i.postimg.cc/jdhk3S86/26.png)](https://postimg.cc/Tpp9pfvh)
 
 SECCIÓN 1-4 CONVERSIONES DE UNIDADES MÉTRICAS
 
-Determine lo siguiente:
-image
+28.Determine lo siguiente:
 
-Realice las siguientes operaciones:
-image
+[![28.png](https://i.postimg.cc/W13S96qj/28.png)](https://postimg.cc/crpQC3c5)
+
+30.Realice las siguientes operaciones:
+
+[![30.png](https://i.postimg.cc/vThLhcQc/30.png)](https://postimg.cc/bSGtNYSh)
 
 SECCIÓN 2–2 Carga eléctrica
 
-¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?
-image
+2.¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?
 
-¿Cuántos electrones se requieren para producir 80 mC (microcoulombs) de carga?
-image
+[![2.png](https://i.postimg.cc/XYYGdsGK/2.png)](https://postimg.cc/KRC8yr54)
+
+4.¿Cuántos electrones se requieren para producir 80 mC (microcoulombs) de carga?
+
+[![4.png](https://i.postimg.cc/HxgT4LvG/4.png)](https://postimg.cc/4KWCXXTw)
 
 SECCIÓN 2–3 Voltaje, corriente y resistencia
 
-Se utilizan 500 Joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
-image
+6.Se utilizan 500 Joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
 
-¿Cuánta energía utiliza una batería de 12 V para mover 2,5 C por un circuito?
-image
+[![6.png](https://i.postimg.cc/B6pfTB1D/6.png)](https://postimg.cc/XGrP3FL7)
 
-Determine la corriente en cada uno de los siguientes casos:
-image
+8.¿Cuánta energía utiliza una batería de 12 V para mover 2,5 C por un circuito?
 
-¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?
-image
+[![8.png](https://i.postimg.cc/wv6SjRbB/8.png)](https://postimg.cc/sBNnnxzF)
 
-Si 5.74×10^17 electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
-image
+10.Determine la corriente en cada uno de los siguientes casos:
 
-Encuentre la resistencia correspondiente a las siguientes conductancias:
-image
+[![10.png](https://i.postimg.cc/CxktCs31/10.png)](https://postimg.cc/w1x0gLT8)
+
+12.¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?
+
+[![12.png](https://i.postimg.cc/Y0L8rpk9/12.png)](https://postimg.cc/wRHDFY18)
+
+14.Si 5.74×10^17 electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
+
+[![14.png](https://i.postimg.cc/85Jn5dmN/14.png)](https://postimg.cc/JD8QYkF2)
+
+16.Encuentre la resistencia correspondiente a las siguientes conductancias:
+
+[![16.png](https://i.postimg.cc/rm33CZwD/16.png)](https://postimg.cc/gXygGDRp)
 
 SECCIÓN 2–4 Fuentes de voltaje y de corriente
 
-¿En qué principio se basan los generadores eléctricos?
+18.¿En qué principio se basan los generadores eléctricos?
 Por el principio llamado inducción electromagnética
 
-Cierta fuente de corriente proporciona 100 mA a 1 kΩ de carga. Si la resistencia disminuye a 500 Ω , ¿cuál es la corriente en la carga?
-image
+20.Cierta fuente de corriente proporciona 100 mA a 1 kΩ de carga. Si la resistencia disminuye a 500 Ω , ¿cuál es la corriente en la carga?
+
+[![20.png](https://i.postimg.cc/x1fxHV3s/20.png)](https://postimg.cc/N5nkqVVT)
 
 SECCIÓN 2–5 Resistores
 
-Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21.
+22.Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21.
 (a) rojo, violeta, naranja, oro
 
 5% de 27000 = 1.350
@@ -140,7 +165,7 @@ Resistencia máxima: 28.350 Ω
 
 Resistencia mínima: 1.620 Ω
 Resistencia máxima: 1.980 Ω
-Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:
+24.Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:
 (a) café, negro, negro, oro
 
 10 ±5%
@@ -153,7 +178,7 @@ Determine la resistencia y la tolerancia de cada uno de los siguientes resistore
 
 68 ±5%
 
-Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:
+26.Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:
 (a) rojo, gris, violeta, rojo, café
 
 28700 Ω±1%
@@ -166,7 +191,7 @@ Determine la resistencia y la tolerancia de cada uno de los siguientes resistore
 
 9310 Ω±1%
 
-Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
+28.Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
 (a) 4R7J
 
 4R7J=4.7 Ω±5%
