@@ -1,2 +1,163 @@
 # Informe-Tarea-1-
 Informe tarea 1 Collaguazo Blass
+
+1. OBJETIVO:
+1.1 OBJETIVO GENERAL:
+Analizar y comprender los diferentes concepto fundamentales de las cantidades y unidades, voltaje, corriente, resistencia para la implementación en la electrónica, mediante ejercicio de practica he información teórica
+
+1.2 OBJETIVO ESPECIFICOS:
+Teorizar y explicar los diferentes tipos de unidades para su uso en la resolución de ejercicios relacionados con la electrónica, mediante ejercicios practicos.
+Implementar e informar los resultados obtenidos al obtener las unidades de SI del Voltaje, corriente y resistencia para la resolucion de problemas mediante uso de la información teórica.
+
+2. MARCO TEORICO
+1. CANTIDADES Y UNIDADES
+image
+
+1.1 NOTACION CIENTIFICA
+image
+
+1.2 NOTACION CIENTIFICA Y PREFIJOS METRICOS
+image
+
+2 ESTRUCTURA DEL ATOMO
+image
+
+2.1 CARGA ELECTRICA
+image
+
+2.3 VOLTAJE, CORRIENTE Y RESISTENCIA
+image
+
+2.4 TIPOS DE FUENTES DE VOLTAJE DE CORRIENTE DIRECTA
+image
+
+2.5 EL CIRCUITO ELECTRICO
+image
+
+2.6 MEDICIONES DE CIRCUITOS BASICAS
+image
+
+3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+EXPRESE CADA NÚMERO FRACCIONARIO EN NOTACIÓN CIENTÍFICA:
+
+
+EXPRESE CADA UNO DE LOS NÚMEROS SIGUIENTES EN NOTACIÓN CIENTÍFICA:
+image
+
+EXPRESE CADA UNO DE LOS NÚMEROS SIGUIENTES COMO UN NÚMERO DECIMAL REGULAR:
+image
+
+EXPRESE CADA NÚMERO DE LOS SIGUIENTES COMO UN NÚMERO DECIMAL REGULAR:
+image
+
+EFECTÚE LAS SIGUIENTES SUSTRACCIONES:
+image
+
+REALICE LAS SIGUIENTES DIVISIONES
+image
+
+EXPRESE CADA NÚMERO EN NOTACIÓN DE INGENIERÍA:
+image
+
+EXPRESE CADA NÚMERO EN NOTACIÓN DE INGENIERÍA:
+image
+
+MULTIPLIQUE LOS NÚMEROS SIGUIENTES Y EXPRESE CADA RESULTADO EN NOTACIÓN DE INGENIERÍA
+image
+
+EXPRESE CADA NÚMERO DEL PROBLEMA 13 EN OHMS POR MEDIO DE UN PREFIJO MÉTRICO.
+image
+
+EXPRESE CADA UNO DE LOS SIGUIENTES NÚMEROS COMO UNA CANTIDAD PRECEDIDA POR UN PREFIJO MÉTRICO:
+image
+
+EXPRESE CADA UNA DE LAS CANTIDADES SIGUIENTES POR MEDIO DE PREFIJOS MÉTRICOS:
+image
+
+EXPRESE CADA CANTIDAD EN NOTACIÓN DE INGENIERÍA:
+image
+
+DETERMINE LO SIGUIENTE:
+image
+
+REALICE LAS SIGUIENTES OPERACIONES:
+image
+
+SECCIÓN 2.2
+
+¿CUÁL ES LA CARGA EN COULOMB DEL NÚCLEO DE UN ÁTOMO DE CLORO? image
+
+¿CUÁNTOS ELECTRONES SE REQUIEREN PARA PRODUCIR 80 UC (MICROCOULOMBS) DE CARGA? image
+
+SE UTILIZAN QUINIENTOS JOULES DE ENERGÍA PARA MOVER 100 C DE CARGA POR UN RESISTOR. ¿CUÁL ES el voltaje a través del resistor? image
+
+¿CUÁNTA ENERGÍA UTILIZA UNA BATERÍA DE 12 V PARA MOVER 2?5 C POR UN CIRCUITO? image
+
+DETERMINE LA CORRIENTE EN CADA UNO DE LOS SIGUIENTES CASOS: (a) 75 C en 1 s (b) 10 C en 0.5 s (c) 5 C en 2 s
+
+image
+
+¿CUÁNTO TIEMPO REQUIEREN 10 C PARA FLUIR MÁS ALLÁ DE UN PUNTO SI LA CORRIENTE ES DE 5 A? image
+
+5.74 X 10^17 ELECTRONES FLUYEN POR UN ALAMBRE EN 250 MS. ¿CUÁL ES LA CORRIENTE EN amperes? image
+
+ENCUENTRE LA RESISTENCIA CORRESPONDIENTE A LAS SIGUIENTES CONDUCTANCIAS: (a) 0.1 S (b) 0.5 S (c) 0.02 S
+
+image
+
+¿EN QUÉ PRINCIPIO SE BASAN LOS GENERADORES ELÉCTRICOS?
+R: Induccion electromagnetica
+
+CIERTA FUENTE DE CORRIENTE PROPORCIONA 100 MA A 1 K DE CARGA. SI LA RESISTENCIA DISMINUYE A 500, ¿CUÁL ES LA CORRIENTE EN LA CARGA?
+image
+
+ENCUENTRE LAS RESISTENCIAS MÍNIMA Y MÁXIMA DENTRO DE LOS LÍMITES DE TOLERANCIA PARA CADA resistor del problema 21.
+image
+
+DETERMINE LA RESISTENCIA Y LA TOLERANCIA DE CADA UNO DE LOS SIGUIENTES RESISTORES DE 4 BANDAS: (a) café, negro, negro, oro (b) verde, café, verde, plata (c) azul, gris, negro, oro image image
+
+DETERMINE LA RESISTENCIA Y LA TOLERANCIA DE CADA UNO DE LOS SIGUIENTES RESISTORES DE 5 BANDAS: (a) rojo, gris, violeta, rojo, café (b) azul, negro, amarillo, oro, café (c) blanco, naranja, café, café, café
+
+image
+
+EL CONTACTO AJUSTABLE DE UN POTENCIÓMETRO LINEAL SE COLOCA EN EL CENTRO MECÁNICO DE SU AJUSTE. SI LA RESISTENCIA TOTAL ES DE 1000, ¿CUÁL ES LA RESISTENCIA ENTRE CADA TERMINAL Y EL CONTACTO AJUSTABLE?
+
+DETERMINE LA RESISTENCIA Y LA TOLERANCIA DE CADA RESISTOR ROTULADO COMO SIGUE:
+
+image
+
+CON EL INTERRUPTOR EN UNA U OTRA POSICIÓN, TRACE DE NUEVO EL CIRCUITO DE LA FIGURA 2-69(D) CON UN FUSIBLE CONECTADO PARA PROTEGER EL CIRCUITO CONTRA CORRIENTE EXCESIVA.
+image
+
+¿A TRAVÉS DE QUE RESISTOR DE LA FIGURA 2-70 ¿SIEMPRE HAY CORRIENTE, SIN IMPORTAR LA POSICIÓN DE LOS INTERRUPTORES?
+image
+
+R= Siempre va a haber corriente en R_5, debido a que es la única resistencia que no depende de un interruptor
+
+LAS DIFERENTES SECCIONES DE UN SISTEMA ESTEREOFÓNICO ESTÁN REPRESENTADAS POR LOS BLOQUES QUE APARECEN EN LA FIGURA 2-71. MUESTRE CÓMO SE PUEDE UTILIZAR UN SOLO INTERRUPTOR PARA CONECTAR EL FONÓGRAFO, EL REPRODUCTOR DE DISCOS COMPACTOS, LA CASETERA, EL SINTONIZADOR DE AM, O EL SINTONIZADOR DE FM AL AMPLIFICADOR MEDIANTE UNA SOLA PERILLA DE CONTROL. EN UN MOMENTO DADO, SOLAMENTE UNA SECCIÓN PUEDE SER CONECTADA AL AMPLIFICADOR.
+R= Se puede ocupar un interruptor Rotatorio de polo único que sea de 5 posiciones.
+
+EXPLIQUE CÓMO MEDIRÍA LA RESISTENCIA DE R2 EN LA FIGURA 2-72.
+image
+
+R= Primero corto la energía eléctrica y desconecto la resistencia R_2 con mi resistencia desconectado de mi circuito podría medir con mi ohmmetro colocando sus cables cocodrilo en los estremos de mi resistencia.
+
+EN LA FIGURA 2-73, INDIQUE CÓMO SE CONECTA UN AMPERÍMETRO PARA MEDIR LA CORRIENTE QUE SALE DE LA FUENTE DE VOLTAJE SIN IMPORTAR LA POSICIÓN DEL INTERRUPTOR.
+image
+
+R= se coloca el amperímetro de forma que los polos de la fuente de voltaje y el amperímetro nunca sean opuestos.
+
+image
+
+MUESTRE LA COLOCACIÓN APROPIADA DE LOS VOLTÍMETROS PARA MEDIR EL VOLTAJE A TRAVÉS DE CADA RESISTOR PRESENTE EN LA FIGURA 2-70.
+image
+
+R= El voltímetro se conecta a través del componente para el cual el voltaje ha de ser medido. La conexión es una conexión en paralelo. La terminal negativa del medidor se conecta al lado negativo del circuito, y la terminal positiva se conecta al lado positivo del circuito.
+
+¿CUÁNTA RESISTENCIA ESTÁ MIDIENDO EL OHMMETRO DE LA FIGURA 2-75?
+image
+
+R= mi interruptor está marcando x10 y la manecilla (aguja) está en 30 la lectura es de 30x10=300Ω.
+
+¿CUÁL ES LA RESOLUCIÓN MÁXIMA DE UN MULTÍMETRO DIGITAL DE 4 1/2 DÍGITOS?
+R=Un multímetro de 4_2^1dígitos nos puede mostrar hasta 19,999 cuentas de resolución.
