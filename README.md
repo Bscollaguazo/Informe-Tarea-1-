@@ -203,3 +203,15 @@ Resistencia máxima: 1.980 Ω
 (c) 1501F
 
 1501F=1501 Ω±1%
+
+5.CONCLUSIONES
+
+La electronica como fuente fundamental esta presente en nuestro alrededor y esto nos lleva a tener que entenderla ya que se emplea la notacion cientifica para entender cuan intenso o peligroso resulta la corriente en un cuerpo.
+El voltio como una forma de medir es una de las definiciones mas importantes de entender cuando se quiere poner en practica la electronica acompañado con la corriente y la resistencia son unidades de medida que facilitan el calculo y el entendimiento de los fundamentos electronicos.
+La seguridad en el trabajo es uno de los habitos que debemos tener en cuenta al momento de realizar un trabajo y en la electronica debe estar entendido para evitar futuros accidentes.
+
+6. BIBLIOGRAFÍA
+
+Floyd T.L. (2007). PRINCIPIOS DE CIRCUITOS ELÉCTRICOS. (8va ed.). México: Pearson Educación de México
+Dlebleck (27 de septiembre de 2012). Unidades fundamentales y derivadas en el sistema internacional. Blogger. http://fisica1-vladimir.blogspot.com/2012/09/unidades-fundamentales-y-derivadas-en.html
+ADMIN. (14 de julio de 2021). MAGNITUDES ELÉCTRICAS: VOLTAJE, RESISTENCIA, INTENSIDAD, ENERGÍA Y POTENCIA. Suministro de materiales eléctricos. https://jdelectricos.com.co/magnitudes-electricas-energia/
