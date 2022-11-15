@@ -1,4 +1,4 @@
-# Informe-Tarea-1-
+# Informe-Tarea-1
 Informe tarea 1 Collaguazo Blass
 
 1. OBJETIVO:
