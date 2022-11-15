@@ -32,10 +32,7 @@ Implementar e informar los resultados obtenidos al obtener las unidades de SI de
 
 [![fuentes-de-corriente.jpg](https://i.postimg.cc/mDHHXVsc/fuentes-de-corriente.jpg)](https://postimg.cc/cgdC6R6Z)
 
-2.5 EL CIRCUITO ELECTRICO
-[![carga-electrcica.jpg](https://i.postimg.cc/J4wqLDYV/carga-electrcica.jpg)](https://postimg.cc/MXDR0T8d)
-
-2.6 MEDICIONES DE CIRCUITOS BASICAS
+2.5 MEDICIONES DE CIRCUITOS BASICAS
 
 [![MEDICIONES-DE-CIRCUITOS.jpg](https://i.postimg.cc/WpHFPGhX/MEDICIONES-DE-CIRCUITOS.jpg)](https://postimg.cc/kDWXQtNb)
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
