@@ -12,29 +12,28 @@ Teorizar y explicar los diferentes tipos de unidades para su uso en la resoluci�
 Implementar e informar los resultados obtenidos al obtener las unidades de SI del Voltaje, corriente y resistencia para la resolucion de problemas mediante uso de la información teórica.
 
 2. MARCO TEORICO
-1. CANTIDADES Y UNIDADES
-imag
-
 1.1 NOTACION CIENTIFICA
 
 [![NOTACION-CIENTIFICA.jpg](https://i.postimg.cc/q7yXNmCJ/NOTACION-CIENTIFICA.jpg)](https://postimg.cc/kVMtZvcz)
-1.2 NOTACION CIENTIFICA Y PREFIJOS METRICOS
-image
 
 2 ESTRUCTURA DEL ATOMO
 
 [![ESTRUCTURA-ATOMICA.jpg](https://i.postimg.cc/m2P9cd0v/ESTRUCTURA-ATOMICA.jpg)](https://postimg.cc/ykzxtT6j)
+
 2.1 CARGA ELECTRICA
-image
+
+[![carga-electrcica.jpg](https://i.postimg.cc/J4wqLDYV/carga-electrcica.jpg)](https://postimg.cc/MXDR0T8d)
 
 2.3 VOLTAJE, CORRIENTE Y RESISTENCIA
 
 [![V-C-R.jpg](https://i.postimg.cc/3Nsx0ZGh/V-C-R.jpg)](https://postimg.cc/kRymkKwY)
+
 2.4 TIPOS DE FUENTES DE VOLTAJE DE CORRIENTE DIRECTA
-image
+
+[![fuentes-de-corriente.jpg](https://i.postimg.cc/mDHHXVsc/fuentes-de-corriente.jpg)](https://postimg.cc/cgdC6R6Z)
 
 2.5 EL CIRCUITO ELECTRICO
-image
+[![carga-electrcica.jpg](https://i.postimg.cc/J4wqLDYV/carga-electrcica.jpg)](https://postimg.cc/MXDR0T8d)
 
 2.6 MEDICIONES DE CIRCUITOS BASICAS
 
@@ -209,11 +208,15 @@ Resistencia máxima: 1.980 Ω
 5.CONCLUSIONES
 
 La electronica como fuente fundamental esta presente en nuestro alrededor y esto nos lleva a tener que entenderla ya que se emplea la notacion cientifica para entender cuan intenso o peligroso resulta la corriente en un cuerpo.
+
 El voltio como una forma de medir es una de las definiciones mas importantes de entender cuando se quiere poner en practica la electronica acompañado con la corriente y la resistencia son unidades de medida que facilitan el calculo y el entendimiento de los fundamentos electronicos.
+
 La seguridad en el trabajo es uno de los habitos que debemos tener en cuenta al momento de realizar un trabajo y en la electronica debe estar entendido para evitar futuros accidentes.
 
 6. BIBLIOGRAFÍA
 
 Floyd T.L. (2007). PRINCIPIOS DE CIRCUITOS ELÉCTRICOS. (8va ed.). México: Pearson Educación de México
+
 Dlebleck (27 de septiembre de 2012). Unidades fundamentales y derivadas en el sistema internacional. Blogger. http://fisica1-vladimir.blogspot.com/2012/09/unidades-fundamentales-y-derivadas-en.html
+
 ADMIN. (14 de julio de 2021). MAGNITUDES ELÉCTRICAS: VOLTAJE, RESISTENCIA, INTENSIDAD, ENERGÍA Y POTENCIA. Suministro de materiales eléctricos. https://jdelectricos.com.co/magnitudes-electricas-energia/
