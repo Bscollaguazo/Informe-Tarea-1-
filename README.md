@@ -16,20 +16,20 @@ Implementar e informar los resultados obtenidos al obtener las unidades de SI de
 imag
 
 1.1 NOTACION CIENTIFICA
-image
 
+[![NOTACION-CIENTIFICA.jpg](https://i.postimg.cc/q7yXNmCJ/NOTACION-CIENTIFICA.jpg)](https://postimg.cc/kVMtZvcz)
 1.2 NOTACION CIENTIFICA Y PREFIJOS METRICOS
 image
 
 2 ESTRUCTURA DEL ATOMO
-image
 
+[![ESTRUCTURA-ATOMICA.jpg](https://i.postimg.cc/m2P9cd0v/ESTRUCTURA-ATOMICA.jpg)](https://postimg.cc/ykzxtT6j)
 2.1 CARGA ELECTRICA
 image
 
 2.3 VOLTAJE, CORRIENTE Y RESISTENCIA
-image
 
+[![V-C-R.jpg](https://i.postimg.cc/3Nsx0ZGh/V-C-R.jpg)](https://postimg.cc/kRymkKwY)
 2.4 TIPOS DE FUENTES DE VOLTAJE DE CORRIENTE DIRECTA
 image
 
@@ -37,8 +37,8 @@ image
 image
 
 2.6 MEDICIONES DE CIRCUITOS BASICAS
-image
 
+[![MEDICIONES-DE-CIRCUITOS.jpg](https://i.postimg.cc/WpHFPGhX/MEDICIONES-DE-CIRCUITOS.jpg)](https://postimg.cc/kDWXQtNb)
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
 
 SECCIÓN 1-2 NOTACIÓN CIENTÍFICA
