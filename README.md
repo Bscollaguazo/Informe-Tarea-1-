@@ -11,7 +11,7 @@ Implementar e informar los resultados obtenidos al obtener las unidades de SI de
 
 2. MARCO TEORICO
 1. CANTIDADES Y UNIDADES
-image
+imag
 
 1.1 NOTACION CIENTIFICA
 image
@@ -37,127 +37,144 @@ image
 2.6 MEDICIONES DE CIRCUITOS BASICAS
 image
 
-3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-EXPRESE CADA NÚMERO FRACCIONARIO EN NOTACIÓN CIENTÍFICA:
+3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
+SECCIÓN 1-2 NOTACIÓN CIENTÍFICA
 
-
-EXPRESE CADA UNO DE LOS NÚMEROS SIGUIENTES EN NOTACIÓN CIENTÍFICA:
+Exprese cada número fraccionario en notación científica:
 image
 
-EXPRESE CADA UNO DE LOS NÚMEROS SIGUIENTES COMO UN NÚMERO DECIMAL REGULAR:
+Exprese cada uno de los números siguientes en notación científica:
 image
 
-EXPRESE CADA NÚMERO DE LOS SIGUIENTES COMO UN NÚMERO DECIMAL REGULAR:
+Exprese cada uno de los números siguientes como un número decimal regular:
 image
 
-EFECTÚE LAS SIGUIENTES SUSTRACCIONES:
+Exprese cada número de los siguientes como un número decimal regular:
 image
 
-REALICE LAS SIGUIENTES DIVISIONES
+Efectúe las siguientes sustracciones:
 image
 
-EXPRESE CADA NÚMERO EN NOTACIÓN DE INGENIERÍA:
+Realice las siguientes divisiones:
 image
 
-EXPRESE CADA NÚMERO EN NOTACIÓN DE INGENIERÍA:
+SECCIÓN 1-3 NOTACIÓN DE INGENIERÍA Y PREFIJOS MÉTRICOS
+
+Exprese cada número en notación de ingeniería:
 image
 
-MULTIPLIQUE LOS NÚMEROS SIGUIENTES Y EXPRESE CADA RESULTADO EN NOTACIÓN DE INGENIERÍA
+Exprese cada número en notación de ingeniería:
 image
 
-EXPRESE CADA NÚMERO DEL PROBLEMA 13 EN OHMS POR MEDIO DE UN PREFIJO MÉTRICO.
+Multiplique los números siguientes y exprese cada resultado en notación de ingeniería
 image
 
-EXPRESE CADA UNO DE LOS SIGUIENTES NÚMEROS COMO UNA CANTIDAD PRECEDIDA POR UN PREFIJO MÉTRICO:
+Exprese cada número del problema 13 en ohms por medio de un prefijo métrico.
 image
 
-EXPRESE CADA UNA DE LAS CANTIDADES SIGUIENTES POR MEDIO DE PREFIJOS MÉTRICOS:
+Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico:
 image
 
-EXPRESE CADA CANTIDAD EN NOTACIÓN DE INGENIERÍA:
+Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
 image
 
-DETERMINE LO SIGUIENTE:
+Exprese cada cantidad en notación de ingeniería:
 image
 
-REALICE LAS SIGUIENTES OPERACIONES:
+SECCIÓN 1-4 CONVERSIONES DE UNIDADES MÉTRICAS
+
+Determine lo siguiente:
 image
 
-SECCIÓN 2.2
-
-¿CUÁL ES LA CARGA EN COULOMB DEL NÚCLEO DE UN ÁTOMO DE CLORO? image
-
-¿CUÁNTOS ELECTRONES SE REQUIEREN PARA PRODUCIR 80 UC (MICROCOULOMBS) DE CARGA? image
-
-SE UTILIZAN QUINIENTOS JOULES DE ENERGÍA PARA MOVER 100 C DE CARGA POR UN RESISTOR. ¿CUÁL ES el voltaje a través del resistor? image
-
-¿CUÁNTA ENERGÍA UTILIZA UNA BATERÍA DE 12 V PARA MOVER 2?5 C POR UN CIRCUITO? image
-
-DETERMINE LA CORRIENTE EN CADA UNO DE LOS SIGUIENTES CASOS: (a) 75 C en 1 s (b) 10 C en 0.5 s (c) 5 C en 2 s
-
+Realice las siguientes operaciones:
 image
 
-¿CUÁNTO TIEMPO REQUIEREN 10 C PARA FLUIR MÁS ALLÁ DE UN PUNTO SI LA CORRIENTE ES DE 5 A? image
+SECCIÓN 2–2 Carga eléctrica
 
-5.74 X 10^17 ELECTRONES FLUYEN POR UN ALAMBRE EN 250 MS. ¿CUÁL ES LA CORRIENTE EN amperes? image
-
-ENCUENTRE LA RESISTENCIA CORRESPONDIENTE A LAS SIGUIENTES CONDUCTANCIAS: (a) 0.1 S (b) 0.5 S (c) 0.02 S
-
+¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?
 image
 
-¿EN QUÉ PRINCIPIO SE BASAN LOS GENERADORES ELÉCTRICOS?
-R: Induccion electromagnetica
-
-CIERTA FUENTE DE CORRIENTE PROPORCIONA 100 MA A 1 K DE CARGA. SI LA RESISTENCIA DISMINUYE A 500, ¿CUÁL ES LA CORRIENTE EN LA CARGA?
+¿Cuántos electrones se requieren para producir 80 mC (microcoulombs) de carga?
 image
 
-ENCUENTRE LAS RESISTENCIAS MÍNIMA Y MÁXIMA DENTRO DE LOS LÍMITES DE TOLERANCIA PARA CADA resistor del problema 21.
+SECCIÓN 2–3 Voltaje, corriente y resistencia
+
+Se utilizan 500 Joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
 image
 
-DETERMINE LA RESISTENCIA Y LA TOLERANCIA DE CADA UNO DE LOS SIGUIENTES RESISTORES DE 4 BANDAS: (a) café, negro, negro, oro (b) verde, café, verde, plata (c) azul, gris, negro, oro image image
-
-DETERMINE LA RESISTENCIA Y LA TOLERANCIA DE CADA UNO DE LOS SIGUIENTES RESISTORES DE 5 BANDAS: (a) rojo, gris, violeta, rojo, café (b) azul, negro, amarillo, oro, café (c) blanco, naranja, café, café, café
-
+¿Cuánta energía utiliza una batería de 12 V para mover 2,5 C por un circuito?
 image
 
-EL CONTACTO AJUSTABLE DE UN POTENCIÓMETRO LINEAL SE COLOCA EN EL CENTRO MECÁNICO DE SU AJUSTE. SI LA RESISTENCIA TOTAL ES DE 1000, ¿CUÁL ES LA RESISTENCIA ENTRE CADA TERMINAL Y EL CONTACTO AJUSTABLE?
-
-DETERMINE LA RESISTENCIA Y LA TOLERANCIA DE CADA RESISTOR ROTULADO COMO SIGUE:
-
+Determine la corriente en cada uno de los siguientes casos:
 image
 
-CON EL INTERRUPTOR EN UNA U OTRA POSICIÓN, TRACE DE NUEVO EL CIRCUITO DE LA FIGURA 2-69(D) CON UN FUSIBLE CONECTADO PARA PROTEGER EL CIRCUITO CONTRA CORRIENTE EXCESIVA.
+¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?
 image
 
-¿A TRAVÉS DE QUE RESISTOR DE LA FIGURA 2-70 ¿SIEMPRE HAY CORRIENTE, SIN IMPORTAR LA POSICIÓN DE LOS INTERRUPTORES?
+Si 5.74×10^17 electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
 image
 
-R= Siempre va a haber corriente en R_5, debido a que es la única resistencia que no depende de un interruptor
-
-LAS DIFERENTES SECCIONES DE UN SISTEMA ESTEREOFÓNICO ESTÁN REPRESENTADAS POR LOS BLOQUES QUE APARECEN EN LA FIGURA 2-71. MUESTRE CÓMO SE PUEDE UTILIZAR UN SOLO INTERRUPTOR PARA CONECTAR EL FONÓGRAFO, EL REPRODUCTOR DE DISCOS COMPACTOS, LA CASETERA, EL SINTONIZADOR DE AM, O EL SINTONIZADOR DE FM AL AMPLIFICADOR MEDIANTE UNA SOLA PERILLA DE CONTROL. EN UN MOMENTO DADO, SOLAMENTE UNA SECCIÓN PUEDE SER CONECTADA AL AMPLIFICADOR.
-R= Se puede ocupar un interruptor Rotatorio de polo único que sea de 5 posiciones.
-
-EXPLIQUE CÓMO MEDIRÍA LA RESISTENCIA DE R2 EN LA FIGURA 2-72.
+Encuentre la resistencia correspondiente a las siguientes conductancias:
 image
 
-R= Primero corto la energía eléctrica y desconecto la resistencia R_2 con mi resistencia desconectado de mi circuito podría medir con mi ohmmetro colocando sus cables cocodrilo en los estremos de mi resistencia.
+SECCIÓN 2–4 Fuentes de voltaje y de corriente
 
-EN LA FIGURA 2-73, INDIQUE CÓMO SE CONECTA UN AMPERÍMETRO PARA MEDIR LA CORRIENTE QUE SALE DE LA FUENTE DE VOLTAJE SIN IMPORTAR LA POSICIÓN DEL INTERRUPTOR.
+¿En qué principio se basan los generadores eléctricos?
+Por el principio llamado inducción electromagnética
+
+Cierta fuente de corriente proporciona 100 mA a 1 kΩ de carga. Si la resistencia disminuye a 500 Ω , ¿cuál es la corriente en la carga?
 image
 
-R= se coloca el amperímetro de forma que los polos de la fuente de voltaje y el amperímetro nunca sean opuestos.
+SECCIÓN 2–5 Resistores
 
-image
+Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21.
+(a) rojo, violeta, naranja, oro
 
-MUESTRE LA COLOCACIÓN APROPIADA DE LOS VOLTÍMETROS PARA MEDIR EL VOLTAJE A TRAVÉS DE CADA RESISTOR PRESENTE EN LA FIGURA 2-70.
-image
+5% de 27000 = 1.350
 
-R= El voltímetro se conecta a través del componente para el cual el voltaje ha de ser medido. La conexión es una conexión en paralelo. La terminal negativa del medidor se conecta al lado negativo del circuito, y la terminal positiva se conecta al lado positivo del circuito.
+Resistencia mínima: 25.650 Ω
+Resistencia máxima: 28.350 Ω
+(b) café, gris, rojo, plata
 
-¿CUÁNTA RESISTENCIA ESTÁ MIDIENDO EL OHMMETRO DE LA FIGURA 2-75?
-image
+10% de 1800 = 180
 
-R= mi interruptor está marcando x10 y la manecilla (aguja) está en 30 la lectura es de 30x10=300Ω.
+Resistencia mínima: 1.620 Ω
+Resistencia máxima: 1.980 Ω
+Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:
+(a) café, negro, negro, oro
 
-¿CUÁL ES LA RESOLUCIÓN MÁXIMA DE UN MULTÍMETRO DIGITAL DE 4 1/2 DÍGITOS?
-R=Un multímetro de 4_2^1dígitos nos puede mostrar hasta 19,999 cuentas de resolución.
+10 ±5%
+
+(b) verde, café, verde, plata
+
+5100000 ±10%
+
+(c) azul, gris, negro, oro
+
+68 ±5%
+
+Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:
+(a) rojo, gris, violeta, rojo, café
+
+28700 Ω±1%
+
+(b) azul, negro, amarillo, oro, café
+
+604*0.1=60.4 Ω±1%
+
+(c) blanco, naranja, café, café, café
+
+9310 Ω±1%
+
+Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
+(a) 4R7J
+
+4R7J=4.7 Ω±5%
+
+(b) 5602M
+
+5602M=5602 MΩ±5%
+
+(c) 1501F
+
+1501F=1501 Ω±1%
